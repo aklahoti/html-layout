@@ -1,0 +1,43 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	background-color: white;
+}
+
+.first {
+	height: 100%;
+	width: 33%;
+	background-color: #4A90E2;
+	float: left;
+	
+}
+
+.second {
+	height: 100%;
+	width: 33%;
+	background-color: #50E3C2;
+	float: left;
+}
+
+.third {
+	height: 100%;
+	width: 33%;
+	background-color: #B8E986;
+	float: left;
+	position: relative;
+}
+
+.red {
+	height: 25%;
+	width: 100%;
+	background-color: red;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin-bottom: 0;
+}
+
+
+
+
+

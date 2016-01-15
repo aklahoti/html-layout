@@ -1,0 +1,27 @@
+body {
+	background-color: #A9A2A2;
+}
+
+.header {
+	height: 150px;
+	width: 75px;
+	background-color: #383535;
+	text-align: center;
+	padding-left: 95%;
+}
+
+.body {
+	height: 1000px;
+	width: 1150px;
+	background-color: white;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.footer {
+	width: 1150px;
+	height: 100px;
+	background-color: black;
+	margin-left: 10%;
+	
+}
