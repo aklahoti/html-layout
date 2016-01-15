@@ -1,0 +1,57 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.header{
+	height: 15%;
+	width: 70%;
+	background-color: #D8D8D8;
+	position: relative;
+}
+
+.white {
+	height: 30%;
+	width: 70%;
+	background-color: white;
+	font-family: arial;
+	font-color: #727E8E;
+	font-size: 20px;
+	padding-left: 1%;
+	padding-top: 3%;
+}
+
+.first{
+	height: 15%;
+	width: 70%;
+	background-color: #4A90E2;
+}
+
+.second{
+	height: 15%;
+	width: 70%;
+	background-color: #50E3C2;
+
+}
+
+.third {
+	height: 15%;
+	width: 70%;
+	background-color: #B8E986;
+
+}
+
+.fourth {
+	height: 15%;
+	width: 70%;
+	background-color: #F8E71C;
+}
+
+.blue {
+	height: 80px;
+	width: 80px;
+	background-color: #4A90E2;
+	position: absolute;
+	left: 2%;
+
+}
